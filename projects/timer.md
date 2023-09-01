@@ -4,7 +4,7 @@ type: project
 image: img/Screenshot 2023-08-31 230904.png
 title: "Simple Timer"
 date: 2019
-published: false
+published: true
 labels:
   - Javascript
   - HTML
