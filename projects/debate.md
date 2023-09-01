@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: file:///C:/Users/sisou/Desktop/Screenshot%202023-08-31%20220113.png
+image: ![image](https://github.com/bjsisounthone/bjsisounthone.github.io/assets/40908232/0c4800ec-36a0-4fbd-a125-04321b6aba20)
+
 title: "UH Manoa Debate Team"
 date: 2018
 published: true
@@ -11,7 +12,7 @@ labels:
 summary: "My experience as a competing member of the UH Debate Team"
 ---
 
-<img class="img-fluid" src="file:///C:/Users/sisou/Desktop/Screenshot%202023-08-31%20214939.png">
+<img class="img-fluid" src="![image](https://github.com/bjsisounthone/bjsisounthone.github.io/assets/40908232/9dc8d0a1-40ea-48e6-8223-ddc20ddd755c)">
 
 I started debating at Leeward Community College around 2015. When I transferred to UH Manoa, I also joined the debate team. I eventually made my way onto one of the 
 competing teams.
