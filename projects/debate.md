@@ -12,7 +12,7 @@ labels:
 summary: "My experience as a competing member of the UH Debate Team"
 ---
 
-<img class="img-fluid" src="img/Screenshot 2023-08-31 214939.png">
+<img class="img-fluid" src="../img/Screenshot 2023-08-31 214939.png">
 
 I started debating at Leeward Community College around 2015. When I transferred to UH Manoa, I also joined the debate team. I eventually made my way onto one of the 
 competing teams.
