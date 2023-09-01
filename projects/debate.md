@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Screenshot 2023-08-31 220113.png
 
 title: "UH Manoa Debate Team"
 date: 2018
@@ -12,7 +12,7 @@ labels:
 summary: "My experience as a competing member of the UH Debate Team"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="img/Screenshot 2023-08-31 214939.png">
 
 I started debating at Leeward Community College around 2015. When I transferred to UH Manoa, I also joined the debate team. I eventually made my way onto one of the 
 competing teams.
