@@ -17,6 +17,6 @@ When I was trying to teach myself how to code in 2019 one of the project ideas t
 newbies was related to creating a simple timer. This was what I came up with. The style is very plain 
 and you can only set the time to minutes but it runs and I am rather proud of that.
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
+{% gist eafbe499fbd195dcb48c3f98fa8c12f739c77f8e %}
  
 Source: <a href="https://github.com/bjsisounthone/timer/tree/main/timer">basicTimer/timer</a>
